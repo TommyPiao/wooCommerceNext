@@ -93,17 +93,6 @@ These Child categories data will automatically be used to create hero carousel o
 
 * `dev` Runs server in development mode
 
-## Code Contributors ✰
-
-Thanks to all the people who contributed to the code of this project 🤝
-
-<div>
-    <img src="https://github.com/imranhsayed.png?size=30" alt="Imran Sayed">
-    <img src="https://github.com/w3bdesign.png?size=30" alt="Daniel F">
-    <img src="https://github.com/delunix.png?size=30" alt="Fandi Rahmawan">
-    <img src="https://github.com/yudyananda.png?size=30" alt="yudyananda">
-</div>
-
 
 ## Contributing :busts_in_silhouette:
 
@@ -113,9 +102,6 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 I use [Git](https://github.com/) for versioning.
 
-## Author :bust_in_silhouette:
-
-* **[Imran Sayed](https://twitter.com/imranhsayed)**
 
 ## License :page_with_curl:
 
